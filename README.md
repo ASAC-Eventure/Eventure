@@ -11,7 +11,7 @@ ______
 
 | Contents        | Title                                  |
 |-----------------|----------------------------------------|
-| Team Agreement  | [Prep 1 ](./Eventure/TeamAgreement.md) |
+| Team Agreement  | [Prep 1 ](./TeamAgreement.md) |
 
 -----
 
