@@ -6,6 +6,14 @@ ______
  - Haya Hassan.
  - Reneh Mdanat. 
  - Saif Yahya.
+-----
+## Table of Contents
+
+| Contents        | Title                                  |
+|-----------------|----------------------------------------|
+| Team Agreement  | [Prep 1 ](./Eventure/TeamAgreement.md) |
+
+-----
 
 ## App Idea: Event Management System
 
@@ -64,6 +72,7 @@ _____
  (https://www.jambase.com/jb-api/v1/events?apikey=357b5a27-55f2-487b-9b1c-83f6ad689c3e&page=1)
 
 -----
+
 ## Trello Board 
 https://trello.com/b/9xjMB2Cs/project
 
