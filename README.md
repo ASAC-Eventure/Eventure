@@ -43,6 +43,10 @@ The Event Management System is a web-based application built with Spring Boot th
 -----
 # WireFrames
 
+### **Logo**
+![WRRC](./Assets/logo.jpeg)
+
+
 ### **Home**
   - Home page before signing-up/ Logging in
 
