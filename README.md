@@ -33,7 +33,14 @@ The Event Management System is a web-based application built with Spring Boot th
         QR code integration for easy event check-ins.
 
   5. **User Profiles:**
-        Users can create and manage their profiles, including their usernamess, fullnames, phonesnumbers, and emails.
+        Users can create and manage their profiles, including their usernames, full-names, phones numbers, and emails.
+
+  6. **Admin Panel:**
+     - Administrators can manage user accounts, events, and content.
+     - Admins have access to cancel or approve any booking. 
+     
+  7. **Payment Integration:**
+     - Tickets booked will be paid by cash at the nearest center that sells tickets. 
 --------
 
 ##  API-URL
