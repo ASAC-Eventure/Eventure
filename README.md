@@ -1,6 +1,5 @@
 # Eventure
 
-
 ## App Idea: Event Management System
 
 The Event Management System is a web-based application built with Spring Boot that simplifies the process of organizing and managing events of all types, from concerts and festivals to sports events. The system provides event organizers, attendees, and administrators with a user-friendly platform to reserve, discover, and manage events seamlessly.
@@ -42,6 +41,16 @@ The Event Management System is a web-based application built with Spring Boot th
   7. **Payment Integration:**
      - Tickets booked will be paid by cash at the nearest center that sells tickets. 
 --------
+
+## Prerequisites
+
+  - Java Development Kit (JDK)
+  - Spring Boot
+  - Database (postgresSQL)
+  - Gradle
+  - IDE (IntelliJ IDEA)
+
+_____
 
 ##  API-URL
 
