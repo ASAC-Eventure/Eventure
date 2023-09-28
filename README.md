@@ -1,4 +1,10 @@
 # Eventure
+______
+## Team Members 
+ - Aws Al-omari. 
+ - Balqees Al-Qudah.
+ - Haya Hassan.
+ - Reneh Mdanat. 
 
 ## App Idea: Event Management System
 
