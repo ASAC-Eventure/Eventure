@@ -169,6 +169,7 @@ User Story: As a user, I want to receive personalized event recommendations base
   3. Confirm that recommended events are updated as user preferences change.
 
 ## Software Requirements
+
 - Vision
   The vision of this product is to create a comprehensive and user-friendly web application for discovering, tracking, 
   and booking events in various countries. It aims to solve the pain point of users struggling to find up-to-date 
@@ -224,4 +225,6 @@ User Story: As a user, I want to receive personalized event recommendations base
   experience. Security measures will protect sensitive information, while usability testing will optimize the app's 
   interface for a broad audience.
 
+## Domain Modeling and Schema
 
+![Schema](./Assets/domainModeling.jpeg)
